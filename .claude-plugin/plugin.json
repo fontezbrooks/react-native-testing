@@ -1,0 +1,18 @@
+{
+  "name": "react-native-testing",
+  "version": "1.0.0",
+  "description": "Comprehensive React Native testing toolkit using React Native Testing Library (RNTL), Jest matchers, and userEvent patterns",
+  "author": {
+    "name": "React Native Testing Skill"
+  },
+  "keywords": [
+    "react-native",
+    "testing",
+    "jest",
+    "rntl",
+    "testing-library",
+    "userEvent",
+    "accessibility"
+  ],
+  "skills": "./skills/"
+}

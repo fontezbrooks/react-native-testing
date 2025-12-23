@@ -1,0 +1,13 @@
+{
+  "name": "react-native-testing-local",
+  "description": "Local marketplace for React Native Testing plugin",
+  "plugins": [
+    {
+      "id": "react-native-testing",
+      "name": "React Native Testing",
+      "version": "1.0.0",
+      "description": "Comprehensive React Native testing toolkit using RNTL, Jest, and userEvent",
+      "path": ".."
+    }
+  ]
+}
